@@ -1,6 +1,3 @@
-Certainly! Below is a simple implementation of the MiniMax algorithm in C# for a tic-tac-toe game. This implementation assumes a `Board` class to represent the game state.
-
-```csharp
 using System;
 
 class MiniMaxTicTacToe
